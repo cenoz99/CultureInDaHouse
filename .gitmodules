@@ -1,0 +1,12 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@gitlab.com:UOC/pdp-pds/pds-2022-2023-grupo-4/Frontend.git
+	main = main
+[submodule "Showcatalog"]
+	path = Showcatalog
+	url = git@gitlab.com:UOC/pdp-pds/pds-2022-2023-grupo-4/Showcatalog.git
+	main = main
+[submodule "Notification"]
+	path = Notification
+	url = git@gitlab.com:UOC/pdp-pds/pds-2022-2023-grupo-4/notification.git
+	main = main
